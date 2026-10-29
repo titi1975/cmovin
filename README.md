@@ -17,4 +17,4 @@ Este repositório hospeda a página de suporte e a política de privacidade do a
 
 ## Contato
 
-tiagobezerra.trb@gmail.com
+cmovin5@gmail.com
